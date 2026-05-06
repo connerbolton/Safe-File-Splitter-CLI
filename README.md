@@ -72,4 +72,4 @@ File 3: dataset_part_3.csv  (176.87 KB, 64 rows)
 - Streams the file line by line — never loads the whole file into memory
 - Tracks open and closed quoted fields to detect complete records
 - Handles escaped double quotes (`""`) inside quoted fields
-- Rolls over to a new file only on complete row boundaries#
+- Rolls over to a new file only on complete row boundaries
