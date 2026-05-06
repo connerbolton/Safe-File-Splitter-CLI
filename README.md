@@ -11,8 +11,8 @@ Naive file splitting is dangerous — it can cut rows in the middle, break quote
 Clone the repo and install with Cargo:
 
 ```bash
-git clone https://github.com/yourusername/filesplit
-cd filesplit
+git clone https://github.com/connerbolton/Safe-File-Splitter-CLI
+cd Safe-File-Splitter-CLI
 cargo install --path .
 ```
 
